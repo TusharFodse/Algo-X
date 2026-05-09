@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# TensorFlow Models
+*.h5
+*.keras
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
