@@ -230,7 +230,7 @@ CONTRACT_ADDRESS=CONTRACT_ADDRESS
 
 ## 📈 AI Forecast Dashboard
 
-![AI Forecast](ScreenShort/ai-Forcast.png)
+![AI Forecast](ScreenShort/aI-Forcast.png)
 
 ---
 
